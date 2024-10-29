@@ -9,16 +9,16 @@ public class Main {
         List<Thread> threads = new ArrayList<>();
 
         Car[] cars = {
-                new Car(parkingLot, "Car1", 2000),
-                new Car(parkingLot, "Car2", 1000),
-                new Car(parkingLot, "Car3", 1500),
-                new Car(parkingLot, "Car4", 3000),
-                new Car(parkingLot, "Car5", 1700),
-                new Car(parkingLot, "Car6", 900),
-                new Car(parkingLot, "Car7", 2000),
-                new Car(parkingLot, "Car8", 400),
-                new Car(parkingLot, "Car9", 1900),
-                new Car(parkingLot, "Car10", 1400)
+                new Car(parkingLot, "Car1", 3000),
+                new Car(parkingLot, "Car2", 2000),
+                new Car(parkingLot, "Car3", 2500),
+                new Car(parkingLot, "Car4", 4000),
+                new Car(parkingLot, "Car5", 2700),
+                new Car(parkingLot, "Car6", 1900),
+                new Car(parkingLot, "Car7", 3000),
+                new Car(parkingLot, "Car8", 500),
+                new Car(parkingLot, "Car9", 2900),
+                new Car(parkingLot, "Car10", 2400)
         };
 
         System.out.println("\nSimulation of day traffic\n");
